@@ -49,3 +49,5 @@ waves/*/*
 *.vpl
 *.vpi
 *.o
+
+.metals/
