@@ -51,3 +51,4 @@ waves/*/*
 *.o
 
 .metals/
+.bloop/
